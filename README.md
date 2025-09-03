@@ -1,4 +1,4 @@
-# 📈 Stock Price Prediction with LLMs (Work in Progress)
+#  Stock Price Prediction with LLMs (Work in Progress)
 
 This project explores how **Large Language Models (LLMs)** can assist in building and evaluating stock price prediction models with minimal coding. Instead of writing code fully from scratch, I interacted with **Google's Gemini in Colab** to generate code, explanations, and strategies.
 
