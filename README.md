@@ -4,38 +4,33 @@ This project explores how **Large Language Models (LLMs)** can assist in buildin
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 - **Data Source**: Yahoo Finance (Apple Inc. — AAPL, 2020–2023)
 - **Goal**: Use LLM-powered workflows to:
   1. Load and analyze historical stock price data
   2. Engineer features (moving averages, volatility, indicators)
   3. Train models (Regression, Random Forest)
   4. Evaluate performance with metrics (R², accuracy, classification report)
-  5. Discuss possible trading strategies
+  5. Discuss possible trading strategies.
 
 ---
 
-## 📂 Notebook
-👉 [Open the Notebook](./Stock_Price_Prediction_LLM.ipynb)
-
----
-
-## ⚡ Key Learnings
+##  Key Learnings
 - LLMs can generate code for **data loading, feature engineering, and ML models**.
 - Managing the **LLM’s context window** is critical when building step-by-step workflows.
 - While the predictions showed potential, LLM-generated strategies still require **human critical thinking** before being applied in finance.
 
 ---
 
-## 📌 Status
-🔨 **Work in Progress** — experimenting with:
+##  Status
+ **Work in Progress** — experimenting with:
 - Better feature sets  
 - Alternative ML models  
 - Potential integration with a web dashboard  
 
 ---
 
-## 🔗 Future Direction
+##  Future Direction
 - Deploy as a **dashboard app** (Next.js + Supabase)  
 - Explore integration with real-time financial APIs  
 - Compare LLM-assisted workflows with traditional Python-only pipelines
